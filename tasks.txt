@@ -1,0 +1,159 @@
+1;1;Verspätung \aufgrund von \technischen \Problemen  
+1;2;Ausfall der \Klimaanlage in \einem ICE  
+0;3;Längere Wartezeit \beim Umstieg auf \einen anderen Zug  
+1;2;Unangenehmer \Geruch im Abteil  
+1;4;ICE fährt \langsamer als \gewohnt  
+0;5;Ankündigung einer \Notbremsung  
+0;3;Fehlender \Sitzplatz trotz \Reservierung  
+1;3;Notfallbremsung \wegen eines \Gegenstands auf \den Gleisen  
+0;4;Verspätung \aufgrund von \Baustellenarbeiten \ 
+1;1;Plötzlicher \Stromausfall im \ICE  
+0;2;Fehlerhafte \Information auf \der Anzeigetafel  
+1;5;Betrunkene \Passagiere \verursachen Unruhe \ 
+0;3;Kalte Temperaturen \im Zug  
+1;3;Unregelmäßige \Zugfahrt wegen \Gleiswechsel  
+0;4;Probleme mit der \Zugverbindung \durch \Wetterbedingungen  
+1;2;WiFi-Ausfall im \ICE  
+0;2;Defekte Steckdosen \im Wagen  
+1;3;Notfall im Zug, \der eine längere \Verspätung \verursacht  
+0;4;Probleme mit der \Ticketkontrolle  
+1;1;Fehlender \Wasseranschluss in \der Bordküche  
+0;3;Unklare Durchsagen \wegen technischer \Probleme  
+1;2;Schmutzige Fenster \im ICE  
+0;5;Sicherheitsalarm \im Zug  
+1;4;Probleme bei der \Klimaanlage im \Sommer  
+0;3;Geräuscherzeugende \Technik im \Zugabteil  
+1;3;Ungeplante \Zwischenstopp \aufgrund eines \medizinischen \Notfalls  
+0;2;Essen im \Bordrestaurant \nicht verfügbar  
+1;2;Verlängerter Halt \aufgrund von \Gleisarbeiten  
+0;5;Passagier wird \versehentlich aus \dem Zug \ausgesperrt  
+1;2;Verspätung durch \Streckensperrung  
+0;3;Fehlerhafte \Lautsprecheransagen \im Zug  
+1;4;Zug fährt ohne \Zugbegleiter  
+0;2;Lange Wartezeit \bei der \Gepäckaufgabe  
+1;1;Plötzlicher \Schienenbruch  
+0;4;Mangelnde \Sauberkeit in den \Toiletten  
+1;2;Probleme bei der \Reservierungskontrolle \ 
+0;3;Zusätzlicher Halt \durch eine \unerwartete \Kontrolle  
+1;2;Schlechter Empfang \beim mobilen \Netzwerk  
+0;5;Verlust von Gepäck \während der Fahrt  
+1;4;Lautstarker \Geräuschpegel im \Zug  
+0;3;Unzureichende \Informationen beim \Umsteigen  
+1;3;Technische Störung \beim Ticketautomat \im ICE  
+0;4;Unbequeme \Sitzposition durch \defekte Sitze  
+1;5;Schlechte \Luftqualität in \einem überfüllten \ICE  
+0;2;Missverständnisse \bei der \Ticketbuchung  
+1;3;Unregelmäßiger \Service im \Bordrestaurant  
+0;4;Unzureichende \Informationen über \Anschlusszüge  
+1;2;Störung des \Bordunterhaltungsprogramms \ 
+0;5;Defekte \Schließfächer für \Gepäck  
+1;3;Unzureichende \Beleuchtung in den \Wagen  
+0;4;Probleme mit dem \Ticketdrucker  
+1;1;Notfallbremsung \wegen einer Panne  
+0;2;Fehlende \Informationen zum \Fahrplanwechsel  
+1;4;Ungeplante \Umleitung wegen \eines Unfalles auf \der Strecke  
+0;5;Passagier wird \während der Fahrt \beleidigt  
+1;3;Unzureichende \WLAN-Verbindung im \ICE  
+0;3;Probleme mit der \Zugsicherungssystem \ 
+1;2;Zug fährt durch \ein besonders \starkes Unwetter  
+0;4;Erheblicher Lärm \durch andere \Passagiere  
+1;5;Verspätung \aufgrund von \Streikmaßnahmen  
+0;2;Schlechte \Kommunikation über \Verspätungen  
+1;4;Fehlende \Fensterrollos in \einem ICE  
+0;3;Unzufriedenheit \mit der \Zugbegleitung  
+1;2;Ungeplante \Verzögerung durch \Baustellen  
+0;5;Fehlende \Informationen bei \Zugausfällen  
+1;1;Plötzlicher \Zusammenbruch der \Zugbeleuchtung  
+0;3;Krankheitsfall im \Zug verursacht \Verzögerung  
+1;4;Zug wird \vorübergehend auf \einen anderen \Gleis umgeleitet  
+0;2;Fehlende \Toilettenpapiere \in den WCs  
+1;3;Plötzlicher Stop \wegen Wildwechsel  
+0;5;Gepäck wird \versehentlich an \falschen Ort \geschickt  
+1;2;Verspätung durch \technische \Störungen im ICE  
+0;4;Zug fährt über \stark beschädigte \Gleise  
+1;1;Kollission mit \einem Tier auf den \Gleisen  
+0;3;Schwierigkeiten \beim Einsteigen \durch fehlende \Rampen  
+1;4;Unangenehme \Gerüche durch \Abfall im Wagen  
+0;5;Fehlende \Borddurchsagen \wegen technischer \Probleme  
+1;2;Ungewöhnliche \Ruckler während \der Fahrt  
+0;4;Lange Wartezeit \bei der \Ticketkontrolle  
+1;3;Wichtige \Informationen über \Zugausfälle fehlen \ 
+0;5;Verlust von \Gegenständen durch \unaufmerksame \Passagiere  
+0;3;Fehlende \Sitzplatzreservierung \im Nahverkehrszug  
+1;2;Probleme mit der \Türöffnung im ICE  
+0;4;Verspätung durch \Personenschaden \auf der Strecke  
+1;3;Unangenehmes \Flackern der \Innenbeleuchtung  
+0;5;Fahrgast \verwechselt \Haltestelle und \steigt \versehentlich aus  
+1;2;Überfüllter Zug \ohne freie \Sitzplätze  
+0;3;Zug fährt an einem \Anschlusszug \vorbei  
+1;4;Ungeplanter Halt \aufgrund von \Wartungsarbeiten  
+0;5;Versehentliche \Auslösung des \Alarms durch \Passagier  
+1;3;Problem mit dem \Stromanschluss für \Laptops im ICE  
+0;4;Verspätung \aufgrund von \Signalstörungen  
+1;2;Nicht \funktionierende \Bordtoilette im \ICE  
+0;3;Lautstarke \Unterhaltung \anderer Fahrgäste  
+1;4;Überbuchter ICE \mit stehenden \Passagieren  
+0;5;Verspätung durch \Naturereignisse \wie Sturm oder \Schnee  
+1;3;Kein Bordpersonal \verfügbar, um \Fragen zu \beantworten  
+0;4;Schwierigkeiten \bei der \Fahrradmitnahme im \Zug  
+1;2;Fehlende Speisen \im Bordrestaurant  
+0;5;Verspätung durch \polizeilichen \Einsatz  
+1;1;Technischer Defekt \verursacht \unerwarteten Halt  
+0;3;Defekter \Fahrkartenautomat \im Bahnhof  
+1;4;Falsche \Wagenreihung im \ICE  
+0;5;Fahrgast stürzt \beim Ein- oder \Aussteigen  
+1;3;Mangelnde \Sauberkeit in den \WCs des ICE  
+0;4;Ungeplante \Verzögerung durch \Anschlussprobleme  
+1;2;Überlastung des \Mobilfunknetzes im \ICE  
+0;3;Verspätung durch \Ausfall der \Zuganzeige  
+1;4;Langsame Fahrt \wegen Problemen \mit der Lokomotive \ 
+0;5;Wartezeit wegen \Streckenbesichtigung \durch Personal  
+1;3;Probleme mit der \Bordsprechanlage \im ICE  
+0;4;Verlust von \Wertsachen durch \andere Fahrgäste  
+1;2;Unangekündigte \Planänderung bei \der Strecke  
+0;5;Verspätung durch \Feuerwehreinsatz \auf der Strecke  
+1;1;Unerwartetes \Bremsmanöver durch \Zugführer  
+0;3;Probleme mit der \Sitzplatzzuweisung \bei Gruppenreisen  
+1;4;Technische \Probleme mit dem \Zugkommunikationssystem \ 
+0;5;Versehentlicher \Aufenthalt im \falschen Zugteil  
+1;3;Probleme mit dem \automatischen \Türverschluss  
+0;4;Verwirrende \Ansagen über den \nächsten Halt  
+1;2;Ungeplante \Sitzplatzwechsel \durch \Umstrukturierung  
+0;5;Unfall beim \Rangieren im \Bahnhof  
+1;3;Schwierigkeiten \beim Zugang zu \WLAN im ICE  
+0;4;Verspätung durch \falsche \Weichenstellung  
+1;2;Probleme mit der \Klimaanlage im \Winter  
+0;5;Gepäck bleibt bei \Zwischenstopp im \Zug  
+1;4;Fehlende \Borddurchsagen im \Notfall  
+0;3;Verspätung durch \unvorhergesehene \Inspektionen  
+1;2;Fehlender \Stromanschluss im \Sitzbereich des \ICE  
+0;5;Fahrgast \verwechselt Zug \und fährt in die \falsche Richtung  
+1;3;Lange Schlangen an \der Bordtoilette \im ICE  
+0;4;Probleme mit der \Lautstärke der \Durchsagen  
+1;2;Unzureichende \Kühlung im Sommer \im ICE  
+0;5;Technische \Probleme mit den \automatischen \Türen  
+1;4;Zug hält \unerwartet wegen \Signalproblemen  
+0;3;Lange Wartezeit an \der \Ticketkontrolle  
+1;2;Störungen bei der \Bordunterhaltung \im ICE  
+0;5;Verspätung durch \Fahrzeugdefekt auf \der Strecke  
+1;3;Unangekündigtes \Abschalten der \Klimaanlage  
+0;4;Probleme mit der \Fahrradunterbringung \im Zug  
+1;2;Kein Personal im \Bordrestaurant \verfügbar  
+0;5;Ungeplante \Verzögerungen \wegen \Sicherheitskontrollen \ 
+1;3;Fehlende \Müllentsorgung im \ICE  
+0;4;Unbequeme Sitze \durch veraltetes \Mobiliar  
+1;2;Probleme beim \Laden von \elektronischen \Geräten  
+0;5;Verspätung durch \verspäteten \Güterzug auf der \Strecke  
+1;3;Technische \Probleme mit der \Fahrgastinformation \im ICE  
+0;4;Ungeplante \Streckenänderung \wegen Bauarbeiten  
+1;2;Keine Steckdosen \im ICE verfügbar  
+0;5;Fahrgast muss Zug \verlassen wegen \Überfüllung  
+1;3;Verspätung durch \Person auf den \Gleisen  
+0;4;Fehlende \Reservierungsanzeige \bei Sitzplätzen  
+1;2;Störungen bei der \WC-Nutzung im ICE  
+0;5;Ungeplante \Verzögerung durch \Zugüberprüfung  
+1;3;Probleme mit der \Heizung im Winter \im ICE  
+0;4;Verspätung durch \Einsatz von \Ersatzbussen  
+1;2;Nicht \funktionierender \Getränkeautomat im \ICE  
+0;5;Verspätung durch \Gleisbauarbeiten  
+1;3;Fehlende Anzeige \der Wagenreihung \im ICE  
