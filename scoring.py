@@ -1,10 +1,12 @@
-from  typing import List
-from ui import show_banana_bingo, show_bingo_row, show_bingo_diagonal, show_bingo_column
+from typing import List
+from bingo_ui import show_banana_bingo, show_bingo_row, show_bingo_diagonal, show_bingo_column
+
+
 class Score:
     def __init__(self, size: int):
         self.size = size
         self.values = [[0] * size for _ in range(size)]
-        self.selection = [[False]*size for _ in range(size)]
+        self.selection = [[False] * size for _ in range(size)]
         self.row_selection = [0] * size
         self.col_selection = [0] * size
         self.dia_selection = [0] * 2
@@ -29,7 +31,7 @@ class Score:
             self.row_selection[row] += 1
             self.col_selection[column] += 1
             self.dia_selection[0] += 1 if row == column else 0
-            self.dia_selection[1] += 1 if row + column == self.size-1 else 0
+            self.dia_selection[1] += 1 if row + column == self.size - 1 else 0
 
             if self.row_selection[row] >= self.size:
                 self.row_bingo(row)
@@ -40,7 +42,7 @@ class Score:
             if row == column and self.dia_selection[0] >= self.size:
                 self.dia_bingo(0)
 
-            if row + column == self.size-1 and self.dia_selection[1] >= self.size:
+            if row + column == self.size - 1 and self.dia_selection[1] >= self.size:
                 self.dia_bingo(1)
 
             if (column == 0 or column == self.size - 1) and (row == 0 or row == self.size - 1) and \
@@ -54,11 +56,8 @@ class Score:
         self.row_selection[row] -= 1
         self.col_selection[column] -= 1
         self.dia_selection[0] -= 1 if row == column else 0
-        self.dia_selection[1] -= 1 if row + column == self.size-1 else 0
+        self.dia_selection[1] -= 1 if row + column == self.size - 1 else 0
         return False
-
-
-
 
     def row_bingo(self, row: int) -> int:
         rsum = sum(self.values[row])
@@ -83,7 +82,7 @@ class Score:
                 dsum += self.values[row][row]
         elif index == 1:
             for row in range(len(self.values)):
-                dsum += self.values[row][self.size-row-1]
+                dsum += self.values[row][self.size - row - 1]
         self.score += dsum * 10 * self.bingos
         self.bingos += 1
         show_bingo_diagonal(index, self.board, self.size)
@@ -91,12 +90,10 @@ class Score:
 
     def banana_bingo(self):
         bsum = self.values[0][0]
-        bsum += self.values[0][self.size-1]
-        bsum += self.values[self.size-1][0]
-        bsum += self.values[self.size-1][self.size-1]
+        bsum += self.values[0][self.size - 1]
+        bsum += self.values[self.size - 1][0]
+        bsum += self.values[self.size - 1][self.size - 1]
         self.score += bsum * 3 * self.bingos
         self.bingos += 1
         show_banana_bingo(self.board, self.size)
         return self.score
-
-
